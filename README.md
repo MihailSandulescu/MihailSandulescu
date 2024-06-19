@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-Learning to code for almost 4 years, driven by passion. Currently am a backend turning fullstack developer with 3 years of experience working with the MERN stack, developing scalable NodeJS apps using the Amazon Web Services serverless architecture.
+Started coding driven by passion, doing it professionally for 4 years now. Currently backend, into DevOps and Cloud development, sometimes doing some fullstack work. Experience working with the MERN stack, developing scalable NodeJS apps using the Amazon Web Services serverless architecture.
 
 *   🌍  I'm based in Bucharest
 *   ✉️  You can contact me at [sandulescu1mihail@gmail.com](mailto:sandulescu1mihail@gmail.com)
